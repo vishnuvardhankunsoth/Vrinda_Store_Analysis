@@ -1,2 +1,2 @@
 # VRINDHA_STORE_SALES_DATA
-Data analysis project by using excel
+Data analysis project by using Excel
