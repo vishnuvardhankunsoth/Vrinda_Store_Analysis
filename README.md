@@ -1,5 +1,5 @@
-# Excel-Vrinda_Data_Analysis
-Data analysis project by using Excel
+# Advanced_Excel-Vrinda_Store_Data_Analysis
+Data analysis project by using Advanced Excel
 
 Objective: Vrindha store wants to Create an annual sales report for 2022. So that, Vrindha can understand its customers and grow more sales in 2023.
 
@@ -33,7 +33,16 @@ Sample Insights:
 3. The adult age group (30-49 years) is the maximum contributing (~50%)
 4. Amazon, Flipkart and Myntra channels are max contributing (~80%)
 
-Final conclusion to improve Vrindha store sales:
+The final conclusion to improve Vrindha store sales:
 Target Women customers of the age group (30-49 years) who live in Maharastra, Karnataka, and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart, and Myntra.
+
+My Work:
+1. Started by identifying the columns, data cleaning, checking null values, and erasing. 
+2. Used pivot tables to summarize the data and identify trends. 
+3. Created charts and graphs using filters and slicers to make customized visualizations. 
+4. In conclusion, drawn insights from the data and made recommendations for improving customer satisfaction. 
+5. An improved dashboard that shows order vs sales, order of age vs gender, sales of men vs women, sales of top five states, order of status, and order of channels. 
+6. Created slicers that show months, channels, and categories. 
+7. After working on this project, I developed skills like data transformation, cleaning, processing, analytics, visualization, and creating reports and insights.
 
 
